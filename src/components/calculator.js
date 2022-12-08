@@ -75,7 +75,7 @@ function Calculator(){
                 let result = MakeCalculation(calculation);
                 setInputValue(result);
                 setCalculation({
-                    numberOne : 0,
+                    numberOne : result,
                     calculatorSign : '',
                     numberTwo : 0
                 });
