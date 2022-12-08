@@ -1,0 +1,33 @@
+.btn{
+    width: 60px;
+    height: 60px;
+    background-color: crimson;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: crimson;
+    background-color: white;
+    border: 2px solid crimson;
+}
+
+.btn-lg{
+    width: 200px;
+    height: 60px;
+    background-color: darkcyan;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-lg:hover{
+    color: darkcyan;
+    background-color: white;
+    border: 2px solid darkcyan;
+}

@@ -1,0 +1,13 @@
+.input{
+    height: 60px;
+    width: 260px;
+    margin: 10px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: end;
+    border: 2px solid crimson;
+    padding-right: 10px;
+    background-color:whitesmoke;
+}
